@@ -81,7 +81,7 @@ jupyter notebook notebooks/final_anomaly.ipynb
 
 ## Declaración de uso de IA
 
-Durante el desarrollo de este proyecto se utilizó **ChatGPT** como herramienta de asistencia. Su uso incluyó: apoyo en la redacción de este README, sugerencias de estructura para el notebook `final_anomaly.ipynb`, y debugging de código Python. Toda decisión analítica, interpretación de resultados y validación de cifras fue realizada de forma independiente por el autor. El uso de IA se declara de forma transparente conforme a la política del curso.
+Durante el desarrollo de este proyecto se utilizó **ChatGPT** como herramienta de asistencia. Su uso incluyó: apoyo en la redacción de este README, sugerencias de estructura para el notebook `final_anomaly.ipynb`, y debugging de código Python. Toda decisión analítica, interpretación de resultados y validación de cifras fue realizada de forma independiente. El uso de IA se declara de forma transparente conforme a la política del curso.
 
 ---
 
