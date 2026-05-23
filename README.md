@@ -87,7 +87,7 @@ Durante el desarrollo de este proyecto se utilizó **ChatGPT** como herramienta 
 
 ## Video
 
-🎥 [Link al video (por agregar)]()
+🎥 [https://www.youtube.com/watch?v=MRPsMF1KN4E]()
 
 ---
 
