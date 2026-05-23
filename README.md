@@ -91,7 +91,7 @@ Durante el desarrollo de este proyecto se utilizó **ChatGPT** como herramienta 
 
 ---
 
-## Recursos del curso
+
 
 - IELE756 – Preparación y Análisis de Datos, Leo Ferres, PhD
 - Entrega: viernes 22 de mayo de 2026
