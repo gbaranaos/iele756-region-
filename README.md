@@ -50,7 +50,7 @@ iele756-region-4/
 | % egresos GRD totales de personas extranjeras | ~35% |
 
 El notebook que produce la figura principal es **`notebooks/final_anomaly.ipynb`**.  
-Tiempo estimado de ejecución: ~2–3 minutos (carga tablas precomputadas, no re-ejecuta el pipeline completo).
+
 
 ---
 
