@@ -14,4 +14,4 @@ ipykernel>=6.0.0
 shapely>=2.0.0
 folium>=0.14.0
 plotly>=5.15.0
- 
+matplotlib
